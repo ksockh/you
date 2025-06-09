@@ -1,7 +1,7 @@
 $(function () {
-  let win = $(window).height() + 100;
+  let win = $(window).height();
   console.log(win);
-  $("#con05 section").css("min-height", win);
+  $("#con05 section").css("min-height", win + 200);
 
   console.log("section", win);
 
@@ -94,8 +94,8 @@ $(function () {
         trigger: section,
         start: "top top",
         pin: true,
-        // pinSpacing: false,
-        pinSpacing: i === 2 ? true : false,
+        pinSpacing: true,
+        // pinSpacing: i === 2 ? true : false,
         // markers: true,
       },
     });

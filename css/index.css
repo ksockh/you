@@ -57,7 +57,7 @@ body {
 }
 #con05 section {
   min-height: 100vh;
-  padding-bottom: 8rem !important;
+  padding-bottom: 15rem !important;
 }
 
 /*모바일*/
@@ -962,8 +962,8 @@ body {
   /*cloneWarp*/
   .cloneWarp {
     background-color: #87b6e2;
-    height: 90%;
-
+    /* height:90%; */
+    height: 100%;
     width: 100%;
     border-radius: 20px 20px 0px 0px;
     box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.3);
@@ -6071,7 +6071,7 @@ body {
 
   #con05 .story {
     padding-top: 5rem;
-    box-sizing: border-box;
+    /* box-sizing: border-box; */
   }
 
   #con05 .cloneWarp .project {

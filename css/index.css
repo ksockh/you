@@ -56,6 +56,10 @@ body {
   font-style: normal;
 }
 
+.cloneWarp {
+  padding-bottom: 8rem !important;
+}
+
 /*모바일*/
 @media (max-width: 500px) {
   /*header*/

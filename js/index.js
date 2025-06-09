@@ -94,8 +94,8 @@ $(function () {
         trigger: section,
         start: "top top",
         pin: true,
-        pinSpacing: true,
-        // pinSpacing: i === 2 ? true : false,
+        // pinSpacing: true,
+        pinSpacing: i === 2 ? true : false,
         // markers: true,
       },
     });

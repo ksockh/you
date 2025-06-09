@@ -1,9 +1,9 @@
 $(function () {
   let win = $(window).height();
-  console.log(win);
+
   $("#con05 section").css("min-height", win + 200);
 
-  console.log("section", win);
+  $("#con05 section").css("height", win + 1000);
 
   //header
   Splitting();

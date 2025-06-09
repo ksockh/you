@@ -1,5 +1,5 @@
 $(function () {
-  let win = $(window).height() + 100;
+  let win = $(window).height() + 300;
   console.log(win);
   $("#con05 section").css("min-height", win);
 

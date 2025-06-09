@@ -87,7 +87,7 @@ $(function () {
   });
 
   //con05
-  gsap.utils.toArray("section").forEach((section, i) => {
+  gsap.utils.toArray("#con05 section").forEach((section, i) => {
     console.log(i);
     gsap.timeline({
       scrollTrigger: {

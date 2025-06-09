@@ -3512,6 +3512,7 @@ body {
     min-height: 100vh;
     margin: 0px auto;
     color: #222;
+    border: 1px solid black;
   }
 
   #con05 .story {
@@ -4796,6 +4797,7 @@ body {
     min-height: 100vh;
     margin: 0px auto;
     color: #222;
+    border: 1px solid orange;
   }
 
   #con05 .story {

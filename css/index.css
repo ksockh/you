@@ -932,7 +932,7 @@ body {
   #con05 {
     width: 100%;
     background-color: #abd9ff;
-    overflow-x: hidden;
+    overflow: visible;
     position: relative;
   }
 
@@ -976,7 +976,7 @@ body {
     width: 100%;
     border-radius: 20px 20px 0px 0px;
     box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.3);
-    overflow-x: hidden;
+    overflow: visible;
     position: relative;
   }
 
@@ -2223,7 +2223,7 @@ body {
   #con05 {
     width: 100%;
     background-color: #abd9ff;
-    overflow-x: hidden;
+    overflow: visible;
     position: relative;
   }
 
@@ -2267,7 +2267,7 @@ body {
     width: 100%;
     border-radius: 20px 20px 0px 0px;
     box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.3);
-    overflow-x: hidden;
+    overflow: visible;
     position: relative;
   }
 
@@ -3516,7 +3516,7 @@ body {
   #con05 {
     width: 100%;
     background-color: #abd9ff;
-    overflow-x: hidden;
+    overflow: visible;
     position: relative;
   }
 
@@ -3560,7 +3560,7 @@ body {
     width: 100%;
     border-radius: 20px 20px 0px 0px;
     box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.3);
-    overflow-x: hidden;
+    overflow: visible;
     position: relative;
   }
 
@@ -4801,7 +4801,7 @@ body {
   #con05 {
     width: 100%;
     background-color: #abd9ff;
-    overflow-x: hidden;
+    overflow: visible;
     position: relative;
   }
 
@@ -4845,7 +4845,7 @@ body {
     width: 100%;
     border-radius: 20px 20px 0px 0px;
     box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.3);
-    overflow-x: hidden;
+    overflow: visible;
     position: relative;
   }
 
@@ -6067,7 +6067,7 @@ body {
   #con05 {
     width: 100%;
     background-color: #abd9ff;
-    overflow-x: hidden;
+    overflow: visible;
     position: relative;
   }
 
@@ -6110,7 +6110,7 @@ body {
     width: 100%;
     border-radius: 20px 20px 0px 0px;
     box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.3);
-    overflow-x: hidden;
+    overflow: visible;
     position: relative;
   }
 

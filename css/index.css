@@ -2273,7 +2273,7 @@ body {
     position: relative;
   }
 
-  .cloneWarp::after {
+  /* .cloneWarp::after {
     content: "";
     width: 80%;
     height: 1px;
@@ -2282,7 +2282,7 @@ body {
     top: 50%;
     transform: translate(-50%, -50%);
     background-color: rgba(0, 0, 0, 0.1);
-  }
+  } */
 
   /*contBox*/
   .cloneWarp .contBox {

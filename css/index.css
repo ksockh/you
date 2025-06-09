@@ -55,7 +55,9 @@ body {
   font-weight: normal;
   font-style: normal;
 }
-
+#con05 section {
+  margin-bottom: 10rem !important;
+}
 .cloneWarp {
   padding-bottom: 8rem !important;
 }

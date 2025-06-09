@@ -1,7 +1,7 @@
 $(function () {
   let win = $(window).height();
   console.log(win);
-  $("#con05 section").height(win);
+  $("#con05 section").css("min-height", win);
 
   console.log("section", win);
 

@@ -56,9 +56,7 @@ body {
   font-style: normal;
 }
 #con05 section {
-  margin-bottom: 10rem !important;
-}
-.cloneWarp {
+  min-height: 100vh;
   padding-bottom: 8rem !important;
 }
 

@@ -3,8 +3,6 @@ $(function () {
 
   $("#con05 section").css("min-height", win + 200);
 
-  $("#con05 section").css("height", win + 1000);
-
   //header
   Splitting();
 

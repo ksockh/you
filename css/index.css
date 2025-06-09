@@ -932,7 +932,7 @@ body {
   #con05 {
     width: 100%;
     background-color: #abd9ff;
-    overflow: visible;
+    overflow: hidden;
     position: relative;
   }
 
@@ -976,7 +976,7 @@ body {
     width: 100%;
     border-radius: 20px 20px 0px 0px;
     box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.3);
-    overflow: visible;
+    overflow: hidden;
     position: relative;
   }
 
@@ -1008,7 +1008,8 @@ body {
     margin: 0px auto;
     text-align: center;
     width: 80%;
-    height: 40%;
+    /* height: 40%; */
+    height: 30%;
   }
 
   .cloneWarp .contBox li .img {
@@ -1019,6 +1020,7 @@ body {
   .cloneWarp .contBox li .img img {
     width: 100%;
     height: 100%;
+    object-fit: cover;
   }
 
   /*right*/
@@ -2223,7 +2225,7 @@ body {
   #con05 {
     width: 100%;
     background-color: #abd9ff;
-    overflow: visible;
+    overflow: hidden;
     position: relative;
   }
 
@@ -2267,7 +2269,7 @@ body {
     width: 100%;
     border-radius: 20px 20px 0px 0px;
     box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.3);
-    overflow: visible;
+    overflow: hidden;
     position: relative;
   }
 
@@ -2298,7 +2300,7 @@ body {
     text-align: center;
     margin: 0px auto;
     width: 80%;
-    height: 40%;
+    height: 30%;
   }
 
   .cloneWarp .contBox li .img {
@@ -2309,6 +2311,7 @@ body {
   .cloneWarp .contBox li .img img {
     width: 100%;
     height: 100%;
+    object-fit: cover;
   }
 
   /*right*/
@@ -3516,7 +3519,7 @@ body {
   #con05 {
     width: 100%;
     background-color: #abd9ff;
-    overflow: visible;
+    overflow: hidden;
     position: relative;
   }
 
@@ -3560,7 +3563,7 @@ body {
     width: 100%;
     border-radius: 20px 20px 0px 0px;
     box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.3);
-    overflow: visible;
+    overflow: hidden;
     position: relative;
   }
 
@@ -3591,7 +3594,7 @@ body {
     text-align: center;
     margin: 0px auto;
     width: 80%;
-    height: 40%;
+    height: 30%;
   }
 
   .cloneWarp .contBox li .img {
@@ -3600,6 +3603,8 @@ body {
 
   .cloneWarp .contBox li .img img {
     height: 100%;
+    width: 100%;
+    object-fit: cover;
   }
 
   /*right*/
@@ -4801,7 +4806,7 @@ body {
   #con05 {
     width: 100%;
     background-color: #abd9ff;
-    overflow: visible;
+    overflow: hidden;
     position: relative;
   }
 
@@ -4845,7 +4850,7 @@ body {
     width: 100%;
     border-radius: 20px 20px 0px 0px;
     box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.3);
-    overflow: visible;
+    overflow: hidden;
     position: relative;
   }
 
@@ -6067,7 +6072,7 @@ body {
   #con05 {
     width: 100%;
     background-color: #abd9ff;
-    overflow: visible;
+    overflow: hidden;
     position: relative;
   }
 
@@ -6110,7 +6115,7 @@ body {
     width: 100%;
     border-radius: 20px 20px 0px 0px;
     box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.3);
-    overflow: visible;
+    overflow: hidden;
     position: relative;
   }
 

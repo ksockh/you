@@ -932,7 +932,7 @@ body {
   #con05 {
     width: 100%;
     background-color: #abd9ff;
-    overflow: hidden;
+    overflow-x: hidden;
     position: relative;
   }
 
@@ -976,7 +976,7 @@ body {
     width: 100%;
     border-radius: 20px 20px 0px 0px;
     box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.3);
-    overflow: hidden;
+    overflow-x: hidden;
     position: relative;
   }
 
@@ -1000,6 +1000,7 @@ body {
 
   .cloneWarp .contBox li {
     width: 50%;
+    height: 100%;
   }
 
   /*left*/
@@ -2222,7 +2223,7 @@ body {
   #con05 {
     width: 100%;
     background-color: #abd9ff;
-    overflow: hidden;
+    overflow-x: hidden;
     position: relative;
   }
 
@@ -2266,7 +2267,7 @@ body {
     width: 100%;
     border-radius: 20px 20px 0px 0px;
     box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.3);
-    overflow: hidden;
+    overflow-x: hidden;
     position: relative;
   }
 
@@ -3515,7 +3516,7 @@ body {
   #con05 {
     width: 100%;
     background-color: #abd9ff;
-    overflow: hidden;
+    overflow-x: hidden;
     position: relative;
   }
 
@@ -3559,7 +3560,7 @@ body {
     width: 100%;
     border-radius: 20px 20px 0px 0px;
     box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.3);
-    overflow: hidden;
+    overflow-x: hidden;
     position: relative;
   }
 
@@ -4800,7 +4801,7 @@ body {
   #con05 {
     width: 100%;
     background-color: #abd9ff;
-    overflow: hidden;
+    overflow-x: hidden;
     position: relative;
   }
 
@@ -4844,7 +4845,7 @@ body {
     width: 100%;
     border-radius: 20px 20px 0px 0px;
     box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.3);
-    overflow: hidden;
+    overflow-x: hidden;
     position: relative;
   }
 
@@ -6066,7 +6067,7 @@ body {
   #con05 {
     width: 100%;
     background-color: #abd9ff;
-    overflow: hidden;
+    overflow-x: hidden;
     position: relative;
   }
 
@@ -6109,7 +6110,7 @@ body {
     width: 100%;
     border-radius: 20px 20px 0px 0px;
     box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.3);
-    overflow: hidden;
+    overflow-x: hidden;
     position: relative;
   }
 

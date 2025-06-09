@@ -65,9 +65,9 @@ body {
   padding-bottom: 15rem !important;
 }
 
-#container {
+/* #container {
   overflow: visible !important;
-}
+} */
 
 /*모바일*/
 @media (max-width: 500px) {
